@@ -25,12 +25,12 @@ const songList = [
     {
         name: "Travel Love Beats",
         source: "./assets/music/Travel Love Beats.mp3",
-        cover: "./assets/images/chillhop.jpg"
+        cover: "./assets/images/chillhop-3.jpg"
     },
     {
         name: "Night Sky Unreated",
         source: "./assets/music/Night Sky.mp3",
-        cover: "./assets/images/chillhop-2.jpg"
+        cover: "./assets/images/chillhop-3.jpg"
     },
     {
         name: "Be a Music",
@@ -40,12 +40,12 @@ const songList = [
     {
         name: "Slow Day",
         source: "./assets/music/Slow Day.mp3",
-        cover: "./assets/images/chillhop-4.jpg"
+        cover: "./assets/images/chillhop-3.jpg"
     },
     {
         name: "Carti Mangolia",
         source: "./assets/music/Carti mangolia.mp3",
-        cover: "./assets/images/chillhop-2.jpg"
+        cover: "./assets/images/chillhop-3.jpg"
     },
     {
         name: "Atif Aslam's Unplugged",
