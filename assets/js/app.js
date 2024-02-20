@@ -50,32 +50,32 @@ const songList = [
     {
         name: "Atif Aslam's Unplugged",
         source: "./assets/music/Atif Aslam's Unplugged.mp3",
-        cover: "./assets/images/chillhop-5.jpg"
+        cover: "./assets/images/chillhop-3.jpg"
     },
     {
         name: "Baarish",
         source: "./assets/music/Baarish.mp3",
-        cover: "./assets/images/chillhop-6.jpg"
+        cover: "./assets/images/chillhop-3.jpg"
     },
     {
         name: "Baarish(Lo-fi )",
         source: "./assets/music/Baarish(Lo-fi ).mp3",
-        cover: "./assets/images/chillhop-7.jpg"
+        cover: "./assets/images/chillhop-3.jpg"
     },
     {
         name: "Gazab Ka Hai Din",
         source: "./assets/music/Gazab Ka Hai Din.mp3",
-        cover: "./assets/images/chillhop-8.jpg"
+        cover: "./assets/images/chillhop-3.jpg"
     },
     {
         name: "Govind Bolo",
         source: "./assets/music/Govind Bolo.mp3",
-        cover: "./assets/images/chillhop-2.jpg"
+        cover: "./assets/images/chillhop-3.jpg"
     },
     {
         name: "Mann Mera (Unplugged)",
         source: "./assets/music/Mann Mera (Unplugged).mp3",
-        cover: "./assets/images/chillhop-10.jpg"
+        cover: "./assets/images/chillhop-3.jpg"
     },
     {
         name: "Tujhe Kitna Chahein Aur",
